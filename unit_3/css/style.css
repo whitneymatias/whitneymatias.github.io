@@ -1,6 +1,5 @@
 body {
     background-color: #C0E8A9;
-}
 
 h1, {
     color: #fff;
@@ -17,4 +16,6 @@ p {
     font-style: none;
     text-align: right;
     text-transform: uppercase;
+}
+
 }
