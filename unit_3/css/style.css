@@ -2,7 +2,7 @@ body {
     background-color: #C0E8A9;
 }
 
-h1, p {
+h1, {
     color: #fff;
     font-size: 22px;
     font-family: Helvetica;
@@ -10,3 +10,10 @@ h1, p {
     text-align: right;
     text-transform: uppercase;
 }
+
+p {
+  font-size: 12px;
+    font-family: Helvetica;
+    font-style: none;
+    text-align: right;
+    text-transform: uppercase;
