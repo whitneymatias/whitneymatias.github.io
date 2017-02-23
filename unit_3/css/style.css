@@ -15,6 +15,10 @@ h1, {
 }
 
 p {
+  	margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
   	font-size: 12px;
     font-family: Helvetica;
     color: #fff;
@@ -30,10 +34,17 @@ a {
     text-align: right;
     text-transform: uppercase;
 
-
 }
 
 hr {
 	width: 100px;
-	color: #fff;
+}
+
+ul {
+    text-align: center;
+    font-size: 12px;
+    font-family: Helvetica;
+    color: #fff;
+    text-align: right;
+    text-transform: uppercase;
 }
