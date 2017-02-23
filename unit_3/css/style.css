@@ -9,7 +9,7 @@ body {
     font-family: Helvetica;
 }
 
-h1, {
+h1, p, a {
     margin-top: 100px;
     margin-bottom: 100px;
     margin-right: 150px;
