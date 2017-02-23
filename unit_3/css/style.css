@@ -5,7 +5,7 @@ body {
     margin-left: 80px;
     background-color: #C0E8A9;
     color: #fff;
-    text-align: right;
+    text-align: center;
     font-family: Helvetica;
 }
 
@@ -17,7 +17,7 @@ h1, {
     font-size: 22px;
     font-family: Helvetica;
     color: #ffffff;
-    text-align: right;
+    text-align: center;
     text-transform: uppercase;
 }
 
@@ -29,7 +29,7 @@ p {
   	font-size: 12px;
     font-family: Helvetica;
     color: #fff;
-    text-align: right;
+    text-align: center;
     text-transform: uppercase;
 }
 
@@ -56,6 +56,5 @@ ul {
     font-size: 12px;
     font-family: Helvetica;
     color: #fff;
-    text-align: right;
     text-transform: uppercase;
 }
