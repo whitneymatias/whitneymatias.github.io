@@ -1,8 +1,10 @@
 body {
     background-color: #C0E8A9;
+    align-content: right;
 
+}
 h1, {
-    color: #fff;
+    font-color: #fff;
     font-size: 22px;
     font-family: Helvetica;
     font-style: bold;
@@ -11,11 +13,9 @@ h1, {
 }
 
 p {
-  font-size: 12px;
+  	font-size: 12px;
     font-family: Helvetica;
     font-style: none;
     text-align: right;
     text-transform: uppercase;
-}
-
 }
