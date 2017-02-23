@@ -1,8 +1,5 @@
 body {
-	margin-top: 100px;
-    margin-bottom: 100px;
-    margin-right: 150px;
-    margin-left: 80px;
+
     background-color: #C0E8A9;
     color: #fff;
     text-align: center;
@@ -10,10 +7,7 @@ body {
 }
 
 h1, p, a {
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin-right: 150px;
-    margin-left: 80px;
+
     font-size: 22px;
     font-family: Helvetica;
     color: #ffffff;
@@ -22,10 +16,6 @@ h1, p, a {
 }
 
 p {
-  	margin-top: 100px;
-    margin-bottom: 100px;
-    margin-right: 150px;
-    margin-left: 80px;
   	font-size: 12px;
     font-family: Helvetica;
     color: #fff;
