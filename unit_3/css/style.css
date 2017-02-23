@@ -1,10 +1,10 @@
 body {
     background-color: #C0E8A9;
-    align-content: left;
-
+    font-color: #fff;
+    text-align: right;
 }
 h1, {
-    font-color: #fff;
+    
     font-size: 22px;
     font-family: Helvetica;
     font-style: bold;
