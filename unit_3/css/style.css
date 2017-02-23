@@ -1,5 +1,4 @@
 body {
-	padding: 2cm 4cm 3cm 4cm;
 	margin-top: 100px;
     margin-bottom: 100px;
     margin-right: 150px;
@@ -48,14 +47,12 @@ a {
 
 }
 
-hr {
-	width: 100px;
-}
-
 ul {
+    list-style-position: inside;
     text-align: center;
     font-size: 12px;
     font-family: Helvetica;
     color: #fff;
     text-transform: uppercase;
+    padding: 2cm 4cm 3cm 4cm;
 }
