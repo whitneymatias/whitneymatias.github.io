@@ -1,11 +1,12 @@
 body {
-  text-align: center;
-  background-color: #C0E8A9;
-  font-family: Helvetica;
+    background-color: #C0E8A9;
 }
-hr {
-  width: 200px;
-}
-p {
-  font-size: 22px;
+
+h1, p {
+    color: #fff;
+    font-size: 22px;
+    font-family: Helvetica;
+    font-style: bold;
+    text-align: right;
+    text-transform: uppercase;
 }
