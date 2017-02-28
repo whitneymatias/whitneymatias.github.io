@@ -42,9 +42,15 @@ ul {
 	font-size: 70px;
 }
 
+.spacing {
+	background-color: #000;
+	height: 50px;
+	width: 1200px;
+}
+
 .slogan {
 	background-color: #851C07;
-	height: 200px;
+	height: 60px;
 	width: 1200px;
 }
 
