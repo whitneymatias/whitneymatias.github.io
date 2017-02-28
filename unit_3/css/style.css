@@ -38,6 +38,10 @@ ul {
 
 }
 
+.hero p {
+	font-size: 70px
+}
+
 .slogan {
 	background-color: #A80C11;
 	height: 200px;
