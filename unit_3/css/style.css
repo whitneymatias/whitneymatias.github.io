@@ -5,3 +5,9 @@ body {
     text-align: center;
     font-family: Helvetica;
 }
+
+.hero {
+	background-image: url(images/coolidgecorner.jpg);
+
+
+	}
