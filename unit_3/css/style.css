@@ -39,12 +39,16 @@ ul {
 }
 
 .hero p {
-	font-size: 70px
+	font-size: 70px;
 }
 
 .slogan {
-	background-color: #FF370E;
+	background-color: #851C07;
 	height: 200px;
 	width: 1200px;
+}
+
+.slogan p {
+	font-size: 60px;
 }
 
