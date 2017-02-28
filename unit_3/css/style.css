@@ -60,12 +60,12 @@ ul {
 
 .aboutus {
 	background-color: #fff;
-	height: 120px;
+	height:300px;
 	width: 1200px;
 }
 
 .aboutus p {
-	font-size: 55px;
+	font-size: 30px;
 	font-color: #000;
 }
 
