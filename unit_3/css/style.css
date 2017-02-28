@@ -58,6 +58,16 @@ ul {
 	font-size: 60px;
 }
 
+.menutitle {
+	background-color: #851C07;
+	height: 90px;
+	width: 1200px;
+}
+
+.menutitle p {
+	font-size: 60px;
+}
+
 .menu {
 	background-color: #fff;
 	height: 800px;
