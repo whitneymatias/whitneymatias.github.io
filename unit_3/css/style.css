@@ -3,7 +3,16 @@ body {
     background-color: #C0E8A9;
     color: #fff;
     text-align: center;
-    font-family: Helvetica;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+h1 {
+	font-weight: 700;
+
+}
+
+p {
+	font font-weight: 300;
 }
 
 .hero {
@@ -11,9 +20,9 @@ body {
 	background-repeat: no-repeat;
 	background-size: cover;
     background-position: top; 
-	height: 450px;
+	height: 800px;
 	width: 1200px;
-	padding: 60px;
+	padding: 500px;
 
 }
 
