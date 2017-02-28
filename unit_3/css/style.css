@@ -10,7 +10,7 @@ body {
 	background-image: url("../images/coolidgecorner.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
-    background-position: center; 
-	height: 800px;
+    background-position: top; 
+	height: 500px;
 	width: 1200px;
 }
