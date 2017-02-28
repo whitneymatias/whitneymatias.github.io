@@ -58,6 +58,17 @@ ul {
 	font-size: 60px;
 }
 
+.aboutus {
+	background-color: #fff;
+	height: 120px;
+	width: 1200px;
+}
+
+.aboutus p {
+	font-size: 55px;
+	font-color: #000;
+}
+
 .menutitle {
 	background-color: #851C07;
 	height: 90px;
