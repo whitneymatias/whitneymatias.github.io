@@ -94,10 +94,6 @@ ul {
 	width: 1200px;
 }
 
-.smallplates h1 {
-	font-size: 50px;
-}
-
-.smallplates p {
+.smallplatesheader p {
 	font-size: 40px;
 }
