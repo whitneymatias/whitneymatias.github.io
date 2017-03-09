@@ -1,0 +1,56 @@
+body {
+    text-align: center;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+h1 {
+	font-weight: 700;
+	font-size: 90px;
+
+}
+
+h2 {
+	font-weight: 300;
+	font-size: 40px;
+
+}
+
+p {
+	font-weight: 300;
+	font-size: 30px;
+}
+
+li {
+	font-weight: 300;
+	font-size: 20px;
+	margin: 20px 90px;
+
+}
+
+ul {
+	text-align: center;
+}
+
+header{
+	background-color: #FFED74;
+}
+
+nav {
+	background-color: #E8C66A;
+}
+
+aside {
+	background-color: #FFC675;
+}
+
+article {
+	background-color: #E89C6C;
+}
+
+footer {
+	background-color: #FF957E;
+}
+
+div {
+	background-color: #FFE2B8;
+}
