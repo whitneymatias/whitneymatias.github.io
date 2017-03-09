@@ -1,7 +1,4 @@
 body {
-
-    background-color: #000;
-    color: #fff;
     text-align: center;
     font-family: 'Open Sans Condensed', sans-serif;
 }
@@ -32,6 +29,30 @@ li {
 
 ul {
 	text-align: center;
+}
+
+header{
+	background-color: #FFED74;
+}
+
+nav {
+	background-color: #E8C66A;
+}
+
+aside {
+	background-color: #FFC675;
+}
+
+article {
+	background-color: #E89C6C;
+}
+
+footer {
+	background-color: #FF957E;
+}
+
+div {
+	background-color: #FFE2B8;
 }
 
 .hero {
